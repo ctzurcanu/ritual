@@ -30,6 +30,6 @@
 |  Output 1 | CO2 in the blood | Image of God in Holy of Holies |
 |  Output 2 | CO2 in the expired air | Holy fire in the Holy Place |
 
-As CSV [file](temple/solomon/Correspondence.csv).
+As CSV [file](Correspondence.csv).
 
-[Back](?file=README.md)
+[Back](../../?file=README.md)
