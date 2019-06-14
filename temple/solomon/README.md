@@ -1,12 +1,12 @@
 # Solomon's Temple
 
 ## Floor Plan
-![Solomon's Temple blueprint](/images/solomonstempleplan1.jpg)
+![Solomon's Temple blueprint](../../images/solomonstempleplan1.jpg)
 
 ## Parallel with the Human Body
-![Respiratory System](/images/The-Respiratory-System.png)
+![Respiratory System](../../images/The-Respiratory-System.png)
 
-![Respiratory System](/images/circulatory-system-2.jpg)
+![Circulatory System](../../images/circulatory-system-2.jpg)
 
 ### Process
 
@@ -54,4 +54,4 @@ The attendance exist through the opening between Boaz and Jachin. And the ritual
 
 As CSV [file](temple/solomon/correspondence.csv).
 
-[Back](../../?file=README.md)
+[Back](../../)
