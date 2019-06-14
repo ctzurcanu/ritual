@@ -4,7 +4,7 @@
 
 ## Table of Correspondence
 
-|  **Dimensions** | **Human Body** | **Solomon’s Temple** |
+|  **Dimension** | **Human Body** | **Solomon’s Temple** |
 | --- | --- | --- |
 |  Essence of the Temple | Heart | Holy of Holies |
 |  Obstruction 1 | Pulmonary circulation, alveoli,<br/>Coronary vessels, Thymus vessels | Veil, curtain |
@@ -30,6 +30,6 @@
 |  Output 1 | CO2 in the blood | Image of God in Holy of Holies |
 |  Output 2 | CO2 in the expired air | Holy fire in the Holy Place |
 
-As CSV [file](Correspondence.csv).
+As CSV [file](correspondence.csv).
 
 [Back](../../?file=README.md)
