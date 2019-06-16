@@ -55,7 +55,7 @@ The attendance exist through the opening between Boaz and Jachin. And the ritual
 
 ## Table of Correspondence
 
-|  **Dimension** | **Human Body** | **Solomon’s Temple** |
+|  **Dimensions** | **Human Body** | **Solomon’s Temple** |
 | --- | --- | --- |
 |  Essence of the Temple | Heart | Holy of Holies |
 |  Obstruction 1 | Pulmonary circulation, alveoli,<br/>Coronary vessels, Thymus vessels | Veil, curtain |
@@ -63,24 +63,29 @@ The attendance exist through the opening between Boaz and Jachin. And the ritual
 |  Exchange Vehicle 2 | CO2-rich blood of purple color | Purple color on the veil |
 |  Exchange Vehicle 3 | Air in the lungs: blue | Blue color on the veil |
 |  Place of attendance | Lungs | Holy Place |
-|  Compartments | Lung lobes | Holy Place semi-walls |
-|  Feminine | Left Lung | Left side of Holy Place for women. Historically no women were allowed into the Temple. Possibly a ritual mistake. |
-|  Masculine | Right Lung | Right side of Holy Place for men. |
-|  Metaphysical Protection of the Temple | Pleura of lungs and Heart’s pericardium | 2 Cherubs in Holy of Holies |
-|  Physical Logistics of the Temple | Heart’s and Lungs’ vascularization | Store chambers |
-|  Essence of Communion | Inner Heart, Thymus | Ark of Covenant |
+|  Compartments | Lung lobes | Holy Place's semi-walls |
+|  Feminine | Left Lung | Left side of Holy Place: correspondent to Jachin |
+|  Masculine | Right Lung | Right side of Holy Place: correspondent to Boaz |
+|  Autoimmune | Thymus (with 2 lobes) | 2 Cherubs in Holy of Holies |
+|  Physical Protection | Heart’s and Lungs’ pleuras | Store chambers |
+|  Essence of Communion | Sinoatrial Node | Ark of Covenant |
 |  Obstruction 2 | Epiglottis | Wall and doors between Porch and Holy Place |
-|  Mind | Sinuses | Porch |
-|  Access 1 | Nostrils | Jachin and Boaz pillars |
+|  Mind | Sinuses, Buccal Cavity | Porch |
+|  Access 1 | Nostrils | Gap between wall and Jachin and Boaz pillars |
 |  Access 1a | Left Nostril | Between Jachin and Temple wall |
 |  Access 1b | Right Nostril | Between Boaz and Temple wall |
-|  Egress | Mouth | Between Jachin and Boaz |
+|  Egress | Lips' opening | Between Jachin and Boaz |
 |  Cycle | Breath Cycle | Year Cycle: on Yom Kippur |
 |  Vector 1 | Breath’s air | People in attendance |
 |  Vector 2 | Blood | High Priest |
-|  Output 1 | CO2 in the blood | Image of God in Holy of Holies |
+|  Output 1 | CO2 in the blood | Image of God in Holy of Holies, Holy Fire |
 |  Output 2 | CO2 in the expired air | Holy fire in the Holy Place |
 
 As CSV [file](temple/solomon/correspondence.csv).
+
+## Hypotheses
+- Women should have been allowed into the Holy Place while not menstruating because men do not fully understand the passive energy symbolized by Jachin.
+- In order to visit both sides of the Holy Place, men could change their breath on the left nostril before entering the Temple again.
+- Changing sides while inside the Temple does not favour discrimination, but favours harmony. Such air exchange techniques are present in Thrul Khor exercises and other secret schools. To note: such exercises cannot be done for the sinuses (organs of ajna/discrimination), therefore not recommended to be done for the lungs unless there is an exact reason/motive.
 
 [Back](../../)
