@@ -24,6 +24,35 @@ Only the High Priest passes through the veil and the doors to the Holy of Holies
 After receiving the blessing of God, the High Priest returns to the Holy Place and shares what he has received for the attendance.
 The attendance exist through the opening between Boaz and Jachin. And the ritual repeats next year.
 
+## Anatomical Details
+
+<iframe
+  id="embedded-human"
+  frameBorder="0"
+  width="700"
+  height="550"
+  allowFullScreen="true"
+  src="https://human.biodigital.com/widget/?be=2zTB&ui-info=true&ui-zoom=true&ui-share=false&uaid=421Vi">
+</iframe>
+
+<iframe
+  id="embedded-human"
+  frameBorder="0"
+  width="700"
+  height="550"
+  allowFullScreen="true"
+  src="https://human.biodigital.com/widget/?be=2zTD&ui-info=true&ui-zoom=true&ui-share=false&camera=1.796,0.603,-6.102,-0.084,4.119,0.216,0.134,0.882,-0.451&uaid=421aD">
+</iframe>
+
+<iframe
+  id="embedded-human"
+  frameBorder="0"
+  width="700"
+  height="550"
+  allowFullScreen="true"
+  src="https://human.biodigital.com/widget/?be=2zTE&ui-tools=true&ui-dissect=true&ui-isolate=false&ui-xray=false&ui-cross-section=true&ui-annotations=true&ui-info=true&ui-zoom=true&ui-object-tree=true&ui-share=false&uaid=421eK">
+</iframe>
+
 ## Table of Correspondence
 
 |  **Dimension** | **Human Body** | **Solomon’s Temple** |
