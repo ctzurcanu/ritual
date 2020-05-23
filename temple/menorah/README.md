@@ -38,4 +38,7 @@
 |  Dimensional folding 2 |  | From 1 arm to 1 point |
 
 
-## Hypotheses
+## Fire Miracle
+
+This fire miracle happened daily.
+According to one opinion in the Talmud, only the center lamp was left burning all day, into which as much oil was put as into the others. Although all the other lights were extinguished, that light continued burning oil, in spite of the fact that it had been kindled first. This miracle, according to the Talmud, was taken as a sign that the Shechinah rested among Israel. This lamp was also referred to as the ner Elohim (lamp of God), mentioned in I Samuel 3:3.[13] According to the Talmud, the miracle of the ner hama'aravi ended after the High Priesthood of Simon the Just in the 3rd or 4th century BCE.
