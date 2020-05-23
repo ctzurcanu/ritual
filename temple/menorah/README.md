@@ -2,8 +2,8 @@
 
 ## Images
 
-![Temple's Menorah](../../images/menorah.jepg)
-![Salvia Hierosolymitana](../../images/salvia.jepg)
+![Temple's Menorah](../../images/menorah.jpeg)
+![Salvia Hierosolymitana](../../images/salvia.jpeg)
 
 
 ## References
