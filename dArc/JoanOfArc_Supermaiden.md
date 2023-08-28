@@ -49,7 +49,7 @@ See how I burn!
 
 Back then I was chosen,
 Now, I'm trapped and poisoned.
-After all, I've tried for one year, seems like eighty.
+After all, I've tried for one year, seems like always.
 Angel Michael, for The Throne, your white standard I've flown
 In Rouen's fiery dawn, I'll burn for Christ, alone.
 Heaven, your purpose is vast,
