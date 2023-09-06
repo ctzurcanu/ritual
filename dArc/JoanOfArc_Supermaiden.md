@@ -7,7 +7,7 @@ Lyrics:  Tim Rice
 
 ## Plot and Settings
 
-### Act 1 9/27
+### Act 1 11/27
 1. Overture
 1. Napoleon's Dream
 1. Joan after winning Orleans: Vive Jeanne
@@ -15,10 +15,12 @@ Lyrics:  Tim Rice
 1. The Paris Walls: Last Supper
 1. Jesus, Jesus, I'll Burn
 1. Then We Are Decided
+1. <>Blood Money
+1. <>The Arrest
 1. Joan is tried by Cauchon in Rouen: This Maiden has to Burn
 1. Joan is burned to the stake in Rouen: Rouen Burning
 
-## Act 2 13/27
+## Act 2 14/27
 1. Apotheosis: Everything's Alright
 1. Mystifying
 1. What's The Buzz
@@ -31,6 +33,7 @@ Lyrics:  Tim Rice
 1. Rouen
 1. Paris
 1. Retried by Jesus Christ: Could We Start Again?
+1. SuperMaiden
 1. John Nineteen: Twenty-Two
 
 ## Gratitudes
@@ -1458,46 +1461,6 @@ MAN: Please, Joan!
 WOMAN: Touch me, Joan!
 
 
-### SuperGirl
-
-VOICE OF KING CHARLES VII
-
-Every time I look at you I don't understand
-Why you let the things you did get so out of hand.
-You'd have managed better if you'd had it planned.
-Why'd you choose such a backward time in such a strange land?
-If you'd come today you could have reached a whole nation.
-France in 15th cent had no mass communication.
-Don't you get me wrong.
-I only want to know.
-
-CHOIR
-
-Joan of Arc, Joan of Arc,
-Who are you? What have you sacrificed?
-Joan of Arc - SuperMaid,
-Do you think you're what they say you are?
-
-VOICE OF KING CHARLES VII
-
-Tell me what you think about your friends at the top.
-Who'd you think besides yourself's the pick of the crop?
-Buddha, was he where it's at? Is he where you are?
-Could Mohammed move a mountain, or was that just PR?
-Was Jesus truly Christ, or was his mind subpar?
-Did you accept to burn? Was that a mistake, or
-Did you know your story would spawn record fakers?
-Don't you get me wrong.
-I only want to know.
-
-CHOIR
-
-Joan of Arc, Joan of Arc,
-Who are you? What have you sacrificed?
-Joan of Arc - SuperGirl,
-Do you think you're what they say you are?
-(Repeat many times)
-
 
 ### Could We Start Again?
 https://youtu.be/5Olf0rMxpXY
@@ -1505,7 +1468,7 @@ https://youtu.be/5Olf0rMxpXY
 JESUS CHRIST
 
 I've been waiting to see you.
-Dying to see you, but it shouldn't be like this.
+You've been burning to see me, but it shouldn't be like this.
 You have over-performed,
 Ready to be anew Joan of Arc Romee?
 You are my only hope.
@@ -1515,7 +1478,7 @@ Awake him ex cathedra,
 Make his judgement pro tempore.
 Joan, could we start la nouvelle guerre spirituelle?
 
-JESUS CHRIST
+THE POPE
 
 I think you've made your point now.
 You've even gone a bit too far to get the message home.
@@ -1526,7 +1489,7 @@ Joan, could we start la nouvelle guerre spirituelle?
 ALL SPIRITUAL FIGURES
 
 I've been waiting to see you.
-Burning to see you, but it shouldn't be like this.
+You've been burning to see us, but it shouldn't be like this.
 You have over-performed,
 Ready to be anew Joan of Arc Romee?
 You are my only hope.
@@ -1540,6 +1503,46 @@ Could we start la nouvelle guerre spirituelle? (Repeat 5 times)
 JESUS CHRIST
 
 Joan, could we start la nouvelle guerre spirituelle?
+
+### SuperMaiden
+https://youtu.be/LSSvPxm4mpw
+
+NAPOLEON
+
+Every time I look at you I don't understand
+Why you let the things you did get so out of hand.
+You'd have managed better if I'd had you planned.
+Why'd you choose such a backward time in such a strange land?
+If you'd come today you could have reached a whole nation.
+France in 15th cent had no mass communication.
+Don't you get me wrong.
+I only want to know.
+
+CHOIR
+
+Joan of Arc, Joan of Arc,
+Who are you? Why were you sacrificed?
+Joan of Arc - SuperMaid,
+Do you think you're what we say you are?
+
+NAPOLEON
+
+Tell me what you think about your friends at the top.
+Who'd you think besides yourself's the pick of the crop?
+Buddha, was he where it's at? Is he where you are?
+Was Jesus truly Christ, or was his mind subpar?
+Did you accept to burn? Was that a mistake, or
+Did you know your story would spawn record fakes?
+Don't you get me wrong.
+I only want to know.
+
+CHOIR
+
+Joan of Arc, Joan of Arc,
+Who are you? Why were you sacrificed?
+Joan of Arc - SuperGirl,
+Do you think you're what we say you are?
+(Repeat many times)
 
 ### John Nineteen: Twenty-two
 https://youtu.be/NmQ0cfovSG0?feature=shared
