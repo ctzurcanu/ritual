@@ -1,4 +1,5 @@
 # Joan of Arc, Supermaiden
+https://www.youtube.com/watch?v=O8TqEvPpLw0&list=PLrZFPVQM38Me6Al6sjs9wqqOj-UePWrkU&index=1
 
 Music:  Andrew Lloyd Webber 
 Lyrics:  Tim Rice
@@ -7,7 +8,7 @@ Lyrics:  Tim Rice
 
 ## Plot and Settings
 
-### Act 1 11/27
+### Act 1 11/25
 1. Overture
 1. Napoleon's Dream
 1. Joan after winning Orleans: Vive Jeanne
@@ -15,12 +16,12 @@ Lyrics:  Tim Rice
 1. The Paris Walls: Last Supper
 1. Jesus, Jesus, I'll Burn
 1. Then We Are Decided
-1. <>Blood Money
-1. <>The Arrest
+1. Blood Money
+1. Betrayal
 1. Joan is tried by Cauchon in Rouen: This Maiden has to Burn
 1. Joan is burned to the stake in Rouen: Rouen Burning
 
-## Act 2 14/27
+## Act 2 14/25
 1. Apotheosis: Everything's Alright
 1. Mystifying
 1. What's The Buzz
@@ -28,7 +29,7 @@ Lyrics:  Tim Rice
 1. Retried by The Pope: The Pope's Song
 1. Retried by Napoleon again: Trial before Napoleon
 1. Christ: I Know How To Lead Her
-1. Mercenary
+1. La Hire, Mercenary
 1. Poor France
 1. Rouen
 1. Paris
@@ -523,6 +524,187 @@ D'ESTIVET
 
 Then we are decided. 
 
+### Blood Money
+https://youtu.be/gVVZ3EzD_WA
+
+KING CHARLES VII
+
+Now if I help you, it matters that you see
+These sordid kinda things are coming hard to me.
+It's taken me some time to work out what to do.
+I weighed the whole thing out before I came to you.
+I have no thought at all about my own reward.
+I really didn't come here of my own accord.
+Just don't say I'm ... damned for all time.
+I came because I had to; I'm the one who saw.
+Jesus can't control it like he did before.
+And furthermore I know that Joan thinks so too.
+Joan wouldn't mind that I was here with you.
+I have no thought at all about my own reward.
+I really didn't come here of my own accord.
+Just don't say I'm ... damned for all time.
+Burgundians, you're friends, worldly men and wise.
+Cauchon, my friend, I know you sympathise.
+Why are we the prophets? Why are we the ones
+Who see the sad solution - know what must be done?
+I have no thought at all about my own reward.
+I really didn't come here of my own accord.
+Just don't say I'm damned for all time.
+
+BURGUNDIANS
+
+Cut the protesting, forget the excuses.
+We want information. Get up of the floor.
+
+CAUCHON
+
+We have the papers we need to arrest him.
+You know his movements. We know the canon law.
+
+BURGUNDIANS
+
+Your help in this matter won't go unrewarded.
+
+CAUCHON
+
+We'll pay you in silver, cash on the nail.
+We just need to know where the soldiers can find her.
+
+BURGUNDIANS
+
+With no armies around her.
+
+CAUCHON
+
+Then we can't fail.
+
+KING CHARLES VII
+
+I don't want your blood money!
+
+CAUCHON
+
+Oh, that doesn't matter, our expenses are good.
+
+KING CHARLES VII
+
+I don't need your blood money!
+
+BURGUNDIANS
+
+But you might as well take it. We think that you should.
+
+CAUCHON
+
+Think of the things you could do with that money,
+Choose any charity - give to the poor.
+We've noted your motives.
+We've noted your feelings.
+This isn't blood money - it's a ...
+
+BURGUNDIANS
+
+A fee.
+
+CAUCHON
+
+A fee nothing more.
+
+KING CHARLES VII
+
+On Tuesday morning you'll find her where you want her.
+Far from her army, tired, locked out of gates of Compiégne.
+
+BURGUNDIANS
+
+Well done Sire. Good old Charles.
+
+### Betrayal
+https://youtu.be/Wsr5j8VmW9Q
+
+JOAN
+
+Sire, must you betray me before I win Paris?
+
+FOLLOWERS
+
+What's the buzz?
+Tell me what's happening. (Repeat a few times)
+
+What's the buzz?
+Tell me what's a-happening.
+Hang on, Joan,
+We're going to fight for you! (Repeat)
+
+JOAN
+
+Put away your sword
+Don't you know that it's all over?
+It was nice, but now it's gone.
+Why are you obsessed with fighting?
+Stick to treaties from now on.
+
+FOLLOWERS
+
+Tell me Joan how you feel tonight.
+Do you plan to put up a fight?
+Do you feel that you've had the breaks?
+What would you say were your big mistakes?
+Do you think that you may retire?
+Did you think you would get much higher?
+How do you view your coming trial?
+Have your men proved at all worth while?
+Come with us to see Cauchon.
+You'll just love Rouen's courthouse.
+You'll just love seeing Cauchon.
+You'll just burn in the marketplace.
+Come on God this is not like you.
+Let us know what you're going to do.
+You know what you're supporters feel;
+You'll escape in the final reel.
+Tell me Joan how you feel tonight.
+Do you plan to put up a fight?
+Do you feel that you've had the breaks?
+What would you say were your big mistakes?
+Come with us to see Cauchon.
+You'll just love Rouen's courthouse.
+You'll just love seeing Cauchon.
+You'll just burn in the marketplace.
+Now we have her!
+Now we have got her!
+Now we have her!
+Now we have got her!
+Now we have her!
+Now we have got her!
+Now we have her!
+Now we have got her!
+Now we have her!
+Now we have got her!
+
+CAUCHON
+
+Joan, you must realize the serious charges facing you.
+You say you're you hear voices of Saints in all your posts,
+Well, is it true?
+
+JOAN
+
+That's what you say, you say that I hear.
+
+CAUCHON
+
+There you have it gentlemen.
+What more evidence do we need?
+Sire, thank you for the victim.
+Stay a while and you'll see her bleed!
+
+FOLLOWERS
+
+Now we have her!
+Now we've got her! (Repeat 4 times)
+
+Take her to Rouen! (Repeat 4 times)
+
 ### This Maden has to Burn
 https://youtu.be/CzMVarleRhA
 
@@ -914,8 +1096,8 @@ NAPOLEON
 
 Ah, so this is Joan of Arc,
 I've read about your spark.
-You look so calm,
-Not like the one who's gone.
+You look so small,
+Unfit for a war.
 I've heard your tale of woes,
 But are you she?
 The Armored Savioress?
@@ -928,9 +1110,9 @@ NAPOLEON
 
 What do you mean by that?
 That is not proper reply.
-I'm world's Emperor,
-Shepherdess,
-Queen of the French.
+Je suis l'Empereur du Monde,
+Shepherd,
+Called Queen of the French.
 How can someone in your state be so cool about her fate?
 Perplexing circumstance, this silent queen of France.
 Since you fought for The Cross, I am surely not your boss.
@@ -996,6 +1178,7 @@ Your standard leads nowhere, Joan,
 Erase her from our archives!
 
 ### Trial Before Napoleon
+https://youtu.be/aihkxb1Tsqg
 
 NAPOLEON
 
@@ -1004,7 +1187,7 @@ And why is this? Was The Pope unimpressed?
 
 CAUCHON
 
-We turn to French to sentence our trial.
+We turn to history to seal our judgement.
 We have no way to pain her after death.
 We need her totally forgotten.
 It's all you have to do.
@@ -1017,9 +1200,9 @@ Talk to me Joan of Arc.
 You have been brought here
 Manacled, burned by your own people.
 Do you have the first idea why you deserve it?
-Listen Saviouress of France,
+Listen Savioress of France,
 Where are your saved?
-Look at me. Am I French?
+Look at me. Am I saved?
 
 JOAN
 
@@ -1030,7 +1213,7 @@ If you only knew.
 
 NAPOLEON
 
-Then you are a saviouress?
+Then you are a savioress?
 
 JOAN
 
@@ -1051,7 +1234,7 @@ Forget of her! Erase her deeds!
 NAPOLEON
 
 What do you mean?
-You'd forget your saviouress?
+You'd forget your savioress?
 
 FRENCH MOB
 
@@ -1072,7 +1255,7 @@ NAPOLEON
 What is this new respect for self?
 This was imported from New Orleans.
 Who is this Saint? Why is she different?
-You choose leaders by the sackful.
+You choose bad leaders by the sackful.
 
 FRENCH MOB
 
@@ -1093,7 +1276,7 @@ Not a Saviour or Christ.
 Not even a liar,
 I need a crime!
 
-FRENCH MOB
+FOLLOWERS
 
 Erase her!
 
@@ -1185,6 +1368,7 @@ Be forgoteen if you want to, you innocent soul!
 
 
 ### I Know How To Lead Her
+https://youtu.be/zv5H9MZgk2o
 
 JESUS
 
@@ -1490,7 +1674,7 @@ Joan, could we start la nouvelle guerre spirituelle?
 ALL SPIRITUAL FIGURES
 
 I've been waiting to see you.
-You've been burning to see us, but it shouldn't be like this.
+You've been burning to see me, but it shouldn't be like this.
 You have over-performed,
 Ready to be anew Joan of Arc Romee?
 You are my only hope.
