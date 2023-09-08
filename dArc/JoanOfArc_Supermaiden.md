@@ -37,6 +37,11 @@ Lyrics:  Tim Rice
 1. SuperMaiden
 1. John Nineteen: Twenty-Two
 
+## Bonus
+
+1. Churchman's Denials
+1. Charles' Death
+
 ## Gratitudes
 
 ### To Napoleon and all European Nobility
@@ -1287,12 +1292,12 @@ Behold your shattered Queen.
 
 FRENCH MOB
 
-We have no saviour but The US!
+We have no saviour but US!
 
 NAPOLEON
 
 You hypocrites,
-You hate The US more than her.
+You hate US more than her.
 
 FRENCH MOB
 
@@ -1587,42 +1592,52 @@ See my time, I can hardly stop
 See my face, it is hardly fair
 I believe you can make me whole
 See my votes, I need much more
+
 MAN:  See my likes, I have too few
 Fix the press, for my campaign
 I believe you can make me well
 See my account, I'm a poor, poor man
+
 ALL:  Will you touch,
 Won't you touch, will you heal me, Joan?
 Will you kiss, you can cure me, Joan
 Won't you give, won't you pay me, Joan?
+
 See my time, I can hardly stop
 See my face, it is hardly fair
 I believe you can make me whole
 See my votes, I need much more
+
 See my belly, I'm too fat
 See my legs, I can hardly stand
 I believe you can give me luck
 See my account, I'm a poor, poor man
+
 Will you touch, will you heal me, Joan?
 Won't you touch, will you cuddle me, Joan?
 Will you kiss, you can like me, Joan
 Won't you give, won't you pay me, Joan?
+
 See my time, I can hardly stop
 See my face, it is hardly fair
 I believe you can make me whole
 See my votes, I need much more
+
 See my belly, I'm too fat
 See my time, I can hardly stop
 I believe you can give me luck
 See my account, I'm a poor, poor man
+
 Will you touch, will you mend me, Joan?
 Won't you touch, will you heal me, Joan?
 Will you kiss, you can heal me, Joan
 Won't you give, won't you pay me, Joan?
+
 See my time, I can hardly stop
 See my face, it is hardly fair
 I believe you can give me luck
 See my votes, I need much more
+
 See my belly, I'm too fat
 
 JOAN: There's too many of you!
@@ -1632,10 +1647,12 @@ I believe you can give me luck
 JOAN: Don't push me!
 
 Will you touch, will you mend me, Joan?
-There's too little of me.
+
+JOAN: There's too little of me.
+
 Will you kiss, you can like me, Joan
 
-Don't crowd me!
+JOAN: Don't crowd me!
 
 See my time, I can hardly stop
 
@@ -1735,6 +1752,148 @@ https://youtu.be/NmQ0cfovSG0?feature=shared
 "Pilate answered: “What I have written, I have written.”"
 
 Instrumental
+
+
+## Bonus
+
+### Churchman's Denials
+https://youtu.be/h0LY4-XOmu4
+
+[FOLLOWERS:] 
+
+I think I've seen you somewhere
+I remember.
+You were with that maid they took away
+I recognize your face
+
+[CHURCHMAN:] 
+
+You've got the wrong man, people
+I don't know her
+And I wasn't where she was
+Never near the place
+
+[FOLLOWERS:] 
+
+That's strange for I am sure
+I saw you with her
+You were right by her side
+and yet you denied
+
+[CHURCHMAN:] 
+
+I tell you, I was never, ever with her
+
+[FOLLOWERS:] 
+
+But I saw you, too. He looked just like you.
+
+[CHURCHMAN:] 
+
+I don't know that Maid!
+
+[JESUS CHRIST:] 
+
+Churchman,
+Don't you know what you have said?
+You've gone and cut Christ dead
+
+[CHURCHMAN:] 
+
+I had to do it
+Don't you see?
+Or else they'd go for me
+
+[JESUS CHRIST:] 
+
+It's what she told you 
+you would do
+Do you wonder 
+how she knew?
+
+### Charles' Death
+https://youtu.be/6Ps7BQoR4dI
+
+[KING CHARLES VII:] 
+
+My God, I saw her
+she looked three-quarters dead
+and she was so bad, I had to turn my head
+You poisoned her
+and she was almost broken
+And I know who everybody's gonna blame
+I don't believe she knows I acted for our good
+I'd save her all this suffering if I could
+Don't believe our good
+And I'd save her if I could
+
+[BURGUNDIANS:] 
+
+Cut the confessions, forget the excuses
+I don't understand why
+you're filled with remorse
+All that you've said
+has come true with a vengeance
+Her followers turned against her
+You backed the right horse
+What you have done
+will be the saving of everyone
+You'll be remembered forever for this
+And not only that
+You've been paid for your efforts
+Pretty good wages for one little girl
+
+[KING CHARLES VII:] 
+
+Joan, I know you can't hear me
+But I only did what your mission needed me to
+Joan, I'd sell out the nation
+For I have been saddled
+with the murder of you
+I have been spattered with innocent blood
+I shall be dragged
+through the slime and the mud
+I have been spattered with innocent blood
+I shall be dragged
+through the slime and the slime and the
+Slime and the mud
+I
+Don't know how to thank her
+I don't know why she made me king
+
+She's a girl
+She's just a girl
+She is not a Christ
+She's just the same
+As any other paysanne
+she scares me so
+While she's scattered ashes
+Will she let me be?
+Will she forgive
+Will she forgive me too?
+Does she still care for France?
+My mind is
+It's in darkness
+
+God.
+God, I'm sick!
+I've been used!
+And you knew all the time!
+God! God, I will never know
+why you chose me
+for your crime!
+For your bloody crime!
+You have crowned me!
+Crowned me!
+Crowned me! Anointed me!
+Crowned me! Anointed me!
+Crowned me! Joan!
+
+[FOLLOWERS:]
+
+So long, Charles
+Poor old Charles
+So long, Charles
 
 
 
