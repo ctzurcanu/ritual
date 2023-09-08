@@ -1,10 +1,11 @@
 # Joan of Arc, Supermaiden
-https://www.youtube.com/watch?v=O8TqEvPpLw0&list=PLrZFPVQM38Me6Al6sjs9wqqOj-UePWrkU&index=1
 
 Music:  Andrew Lloyd Webber 
 Lyrics:  Tim Rice
              ChatGPT4
              Christian Tzurcanu
+
+https://www.youtube.com/watch?v=O8TqEvPpLw0&list=PLrZFPVQM38Me6Al6sjs9wqqOj-UePWrkU&index=1
 
 ## Plot and Settings
 
@@ -1183,7 +1184,7 @@ Your standard leads nowhere, Joan,
 Erase her from our archives!
 
 ### Trial Before Napoleon
-https://youtu.be/aihkxb1Tsqg
+https://youtu.be/ibNutMrc6S8
 
 NAPOLEON
 
@@ -1811,13 +1812,13 @@ you would do
 Do you wonder 
 how she knew?
 
-### Charles' Death
+### A Follower's Death
 https://youtu.be/6Ps7BQoR4dI
 
-[KING CHARLES VII:] 
+[FOLLOWER:] 
 
 My God, I saw her
-she looked three-quarters dead
+She looked three-quarters dead
 and she was so bad, I had to turn my head
 You poisoned her
 and she was almost broken
@@ -1827,14 +1828,14 @@ I'd save her all this suffering if I could
 Don't believe our good
 And I'd save her if I could
 
-[BURGUNDIANS:] 
+[POLITICIANS:] 
 
 Cut the confessions, forget the excuses
 I don't understand why
-you're filled with remorse
+You're filled with remorse
 All that you've said
 has come true with a vengeance
-Her followers turned against her
+Her other followers turned against her
 You backed the right horse
 What you have done
 will be the saving of everyone
@@ -1843,10 +1844,10 @@ And not only that
 You've been paid for your efforts
 Pretty good wages for one little girl
 
-[KING CHARLES VII:] 
+[FOLLOWER:] 
 
 Joan, I know you can't hear me
-But I only did what your mission needed me to
+But I thought I did what your mission needed me to
 Joan, I'd sell out the nation
 For I have been saddled
 with the murder of you
@@ -1859,19 +1860,19 @@ through the slime and the slime and the
 Slime and the mud
 I
 Don't know how to thank her
-I don't know why she made me king
+I don't know why she made me lead
 
 She's a girl
 She's just a girl
 She is not a Christ
 She's just the same
-As any other paysanne
-she scares me so
+As any other celebrity
+She scares me so
 While she's scattered ashes
-Will she let me be?
+Will she let me free?
 Will she forgive
 Will she forgive me too?
-Does she still care for France?
+Does she still care for her Followers?
 My mind is
 It's in darkness
 
@@ -1880,20 +1881,20 @@ God, I'm sick!
 I've been used!
 And you knew all the time!
 God! God, I will never know
-why you chose me
+Why did you choose me
 for your crime!
 For your bloody crime!
 You have crowned me!
 Crowned me!
-Crowned me! Anointed me!
-Crowned me! Anointed me!
-Crowned me! Joan!
+Crowned me! Elevated me!
+Crowned me! Elevated me!
+Crowned me, Joan!
 
 [FOLLOWERS:]
 
-So long, Charles
-Poor old Charles
-So long, Charles
+So long, Follower
+Poor old Follower
+So long, Follower
 
 
 
