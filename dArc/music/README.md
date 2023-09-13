@@ -44,14 +44,16 @@ VSMT:
 
 ## Credits
 
-Joan of Arc, Supermaiden  - Jesus, Jesus, I'll burn!
+Joan of Arc, Supermaiden - A Rock Meta-Opera
 
-Music:  Andrew Lloyd Webber
+Music:   Andrew Lloyd Webber
 Lyrics:  Tim Rice
          ChatGPT4
          Christian Tzurcanu
+         
+Meta:    Christian Tzurcanu
 
-MIDIs from: [Robb Anagnostis](mailto:robb@musician.org) and http://www.dosguys.com/JCS/
+MIDIs:   [Robb Anagnostis](mailto:robb@musician.org) and http://www.dosguys.com/JCS/
 Sheet Music: http://www.dosguys.com/JCS/
 
 
