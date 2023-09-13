@@ -35,3 +35,20 @@
 
 1. Churchman's Denials - Peter's Denial
 1. A Follower's Death - Judas' Death
+
+## Credits
+
+Joan of Arc, Supermaiden  - Jesus, Jesus, I'll burn!
+
+Music:  Andrew Lloyd Webber
+Lyrics:  Tim Rice
+         ChatGPT4
+         Christian Tzurcanu
+
+MIDIs from: [Robb Anagnostis](mailto:robb@musician.org) and http://www.dosguys.com/JCS/
+Sheet Music: http://www.dosguys.com/JCS/
+
+
+Cover Image: Stable Diffusion AI
+
+Inspiration: Jesus Christ Superstar
