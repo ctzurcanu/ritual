@@ -38,10 +38,10 @@ https://www.youtube.com/watch?v=O8TqEvPpLw0&list=PLrZFPVQM38Me6Al6sjs9wqqOj-UePW
 1. SuperMaiden
 1. John Nineteen: Twenty-Two
 
-## Bonus
+## Bonus 2/27
 
-1. Churchman's Denials
-1. Charles' Death
+1. A Churchman's Denials
+1. A Follower's Death
 
 ## Gratitudes
 
@@ -87,11 +87,11 @@ https://www.youtube.com/watch?v=O8TqEvPpLw0&list=PLrZFPVQM38Me6Al6sjs9wqqOj-UePW
 - Jesus: Joan
 - Pilate: The Napoleon
 - Herod: The Pope
-- Caiaphas, Annas, Priests: Pierre Cauchon, d'Estivet, Rouen court
+- Caiaphas, Annas, Priests: Pierre Cauchon, John d'Estivet, Rouen court
 - Crowd, Mob
 - Peter
 - Apostles: Followers
-- APOSTLES' WIVES: Followers
+- Apostles' Wives: Followers
 - Judas: King Charles VII
 - Mary Magdalene: Jesus Christ
 - Moneychangers, Merchants
